@@ -68,4 +68,4 @@ Here is this screen's screenshot.
 
 ## Additional Information
 
-For additional information or if you have any problems with project implementation, please contact `dias.ishbulatov@gmail.com`.
+For additional information or if you have any problems with project implementation, please contact `oleksandrbashchenko637@gmail.com`.
